@@ -1,0 +1,15 @@
+MA 5890: Numerical Linear Algebra
+(Modification in existing course)
+
+Objective: The course will focus on designing algorithms for matrix computations, analyzing these algorithms (in terms of complexity, communication costs, stability, performance in finite precision and exact arithmetic), implementation on different computer architectures.
+
+Syllabus: Floating point arithmetic (1 lecture), stability of algorithms (2 lectures), conditioning of a problem (2 lectures), perturbation analysis (2 lectures), algorithmic complexity (1 lecture), Matrix decomposition including LU, Cholesky, QR, SVD, etc. (12 lectures), Iterative techniques mainly focussing on Krylov subspace methods including Lanczos, Arnoldi, Conjugate Gradient, GMRES, etc. (12 lectures), Preconditioning (2 lectures), structured matrix computations (4 lectures), designing matrix algorithms on modern computer architectures (3 lectures).
+
+Reference Texts:
+1. James W. Demmel, Applied Numerical Linear Algebra, Publisher : Society for Industrial and Applied Mathematics, Year : 1997
+2. N. Trefethen & David Bau III, Numerical Linear Algebra, Publisher : Society for Industrial and Applied Mathematics, Year : 1997
+3. Biswa Nath Datta, Numerical Linear Algebra and applications, 2nd Edition, Publisher : Society for Industrial and Applied Mathematics, Year : 2010
+
+Program(s) intended: This will be offered as an elective for graduate students (M.Sc/M.Tech/Ph.D) in the Mathematics Department
+
+Names of possible (atleast two) teachers: Dr. Sivaram Ambikasaran, 
